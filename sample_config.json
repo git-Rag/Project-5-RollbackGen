@@ -1,0 +1,7 @@
+{
+    "settingA": true,
+    "threshold": 42,
+    "nested": {
+        "mode": "safe"
+    }
+}
